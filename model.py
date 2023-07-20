@@ -6,14 +6,14 @@ USER = "root"
 PASSWD = "mcso@123#@!"
 DB = "MYANIMELIST"
 
-Anime_Manga_News = r"/root/son/Anime_Manga_News.json"
-Comment_News = r"/root/son/Comment_News.json"
-Reviews_Anime = r"/root/son/Reviews_Anime.json"
-Reviews_Manga = r"/root/son/Reviews_Manga.json"
-Reviews_Top_Anime = r"/root/son/Reviews_Top_Anime.json"
-Reviews_Top_Manga = r"/root/son/Reviews_Top_Manga.json"
-Top_Anime = "/root/son/Top_Anime.json"
-Top_Manga = r"/root/son/Top_Manga.json"
+Anime_Manga_News = r"/root/son/mangareader/Anime_Manga_News.json"
+Comment_News = r"/root/son/mangareader/Comment_News.json"
+Reviews_Anime = r"/root/son/mangareader/Reviews_Anime.json"
+Reviews_Manga = r"/root/son/mangareader/Reviews_Manga.json"
+Reviews_Top_Anime = r"/root/son/mangareader/Reviews_Top_Anime.json"
+Reviews_Top_Manga = r"/root/son/mangareader/Reviews_Top_Manga.json"
+Top_Anime = "/root/son/mangareader/Top_Anime.json"
+Top_Manga = r"/root/son/mangareader/Top_Manga.json"
 
 
 
